@@ -1,0 +1,22 @@
+{
+  "name": "handlebars-live-templates-component",
+  "version": "0.0.0",
+  "description": "A tiny base component for functional handlebars based web components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannesiera/handlebars-live-templates-component.git"
+  },
+  "author": "Janne Siera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jannesiera/handlebars-live-templates-component/issues"
+  },
+  "homepage": "https://github.com/jannesiera/handlebars-live-templates-component#readme",
+  "dependencies": {
+    "render-component": "^0.0.0"
+  }
+}
